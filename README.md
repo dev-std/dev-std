@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**dev-std/dev-std** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I'm a developer who is passionate about learning and building things! I believe in continuous growth and enjoy exploring new technologies and development practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on various development projects
+- 🌱 I'm constantly learning new technologies, frameworks, and best practices
+- 💻 I love building and creating software solutions
+- 📚 Learning is a core part of my development journey
+- 🚀 Always exploring new tools and techniques to improve my skills
+
+### 🛠️ Development Interests
+
+- Building practical applications
+- Learning modern development frameworks
+- Exploring best practices in software engineering
+- Contributing to open source projects
+- Continuous improvement and skill development
